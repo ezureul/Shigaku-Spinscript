@@ -1,0 +1,1 @@
+# Shigaku-Spinscript
